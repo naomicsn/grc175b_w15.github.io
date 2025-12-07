@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* css document */
 body {
-    background-image: url("/bgimage_optimized.jpg" /);
+    background-image: url('/bgimage_optimized.jpg' /);
     background-size: cover;
     font-family: Catseye, Arial Narrow;    
 }
@@ -378,3 +378,4 @@ h3 {
     margin-right: 80pt;
 
     }
+
