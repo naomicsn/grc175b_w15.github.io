@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* css document */
 body {
-    background-image: url("../IMAGES/bgimage_optimized.jpg");
+    background-image: url("/bgimage_optimized.jpg" /);
     background-size: cover;
     font-family: Catseye, Arial Narrow;    
 }
@@ -251,7 +251,7 @@ h2 {
 }
 
 .ingredients1 > div {
-    background-image: url('../IMAGES/watermelon_small.jpg');
+    background-image: url("./watermelon_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -265,7 +265,7 @@ h2 {
 }
 
 .ingredients2 > div {
-    background-image: url('../IMAGES/berries_flavors_small.jpg');
+    background-image: url("./berries_flavors_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -279,7 +279,7 @@ h2 {
 }
 
 .ingredients3 > div {
-    background-image: url('../IMAGES/pineapple_small.jpg');
+    background-image: url("./pineapple_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -293,7 +293,7 @@ h2 {
 }
 
 .ingredients4 > div {
-    background-image: url('../IMAGES/strawberries_small.jpg');
+    background-image: url("./strawberries_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -307,7 +307,7 @@ h2 {
 }
 
 .ingredients5 > div {
-    background-image: url('../IMAGES/grape_small.jpg');
+    background-image: url("./grape_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -321,7 +321,7 @@ h2 {
 }
 
 .ingredients6 > div {
-    background-image: url('../IMAGES/oranges_small.jpg');
+    background-image: url("./oranges_small.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -376,4 +376,5 @@ h3 {
     text-align-last: right;
     margin-top: 0;
     margin-right: 80pt;
+
     }
