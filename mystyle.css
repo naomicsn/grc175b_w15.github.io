@@ -252,7 +252,7 @@ h2 {
 }
 
 .ingredients1 > div {
-    background-image: url('./watermelon_small.jpg' /);
+    background-image: url('./watermelon.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -266,7 +266,7 @@ h2 {
 }
 
 .ingredients2 > div {
-    background-image: url('./berries_flavors_small.jpg?raw=true' /);
+    background-image: url('./berriesflavors.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -280,7 +280,7 @@ h2 {
 }
 
 .ingredients3 > div {
-    background-image: url('./pineapple_small.jpg' /);
+    background-image: url('./pineapple.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -294,7 +294,7 @@ h2 {
 }
 
 .ingredients4 > div {
-    background-image: url('./strawberries_small.jpg' /);
+    background-image: url('./strawberries.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -308,7 +308,7 @@ h2 {
 }
 
 .ingredients5 > div {
-    background-image: url('./grape_small.jpg' /);
+    background-image: url('./grape.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -322,7 +322,7 @@ h2 {
 }
 
 .ingredients6 > div {
-    background-image: url('./oranges_small.jpg' /);
+    background-image: url('./oranges.jpg' /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -379,6 +379,7 @@ h3 {
     margin-right: 80pt;
 
     }
+
 
 
 
