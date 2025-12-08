@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* css document */
 body {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/bgimage.jpg?raw=true" /);
+    background-image: url("../IMAGES/bgimage.jpg" /);
     font-family: Catseye, Arial Narrow;
     background-size: cover;
 }
@@ -251,7 +251,7 @@ h2 {
 }
 
 .ingredients1 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/watermelon.jpg?raw=true" /);
+    background-image: url("../IMAGES/watermelon.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -265,7 +265,7 @@ h2 {
 }
 
 .ingredients2 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/berriesflavors.jpg?raw=true" /);
+    background-image: url("../IMAGES/berriesflavors.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -279,7 +279,7 @@ h2 {
 }
 
 .ingredients3 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/pineapple.jpg?raw=true" /);
+    background-image: url("../IMAGES/pineapple.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -293,7 +293,7 @@ h2 {
 }
 
 .ingredients4 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/strawberries.jpg?raw=true" /);
+    background-image: url("../IMAGES/strawberries.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -307,7 +307,7 @@ h2 {
 }
 
 .ingredients5 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/grape.jpg?raw=true" /);
+    background-image: url("../IMAGES/grape.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -321,7 +321,7 @@ h2 {
 }
 
 .ingredients6 > div {
-    background-image: url("https://github.com/naomicsn/grc175b_w15.github.io/blob/main/oranges.jpg?raw=true" /);
+    background-image: url("../IMAGES/oranges.jpg" /);
     color: #000000;
     width: 230px;
     height: 200px;
@@ -378,6 +378,7 @@ h3 {
     margin-right: 80pt;
 
     }
+
 
 
 
