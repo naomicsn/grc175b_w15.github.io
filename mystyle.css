@@ -3,8 +3,8 @@
 body {
     background-image: url("bgimage.jpg" /);
     backgournd-color: #AEEBF2
+    background-size: cover;    
     font-family: Catseye, Arial Narrow;
-    background-size: cover;
 }
 
 a {
@@ -385,6 +385,7 @@ h3 {
     margin-right: 80pt;
 
     }
+
 
 
 
